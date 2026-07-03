@@ -1,5 +1,5 @@
->[!CAUTION]
+>[!IMPORTANT]
 > WIP
 
-> [!NOTE]
+>[!CAUTION]
 > WIP
